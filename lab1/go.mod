@@ -1,3 +1,3 @@
-module lab1.com/lab1
+module lab1.com/http_server
 
 go 1.23.2
